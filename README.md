@@ -45,7 +45,7 @@ Para replicar el preprocesamiento de datos, siga estos pasos:
 ## Autor
 
 Miguel Fonseca  
-David Urrego (www.linkedin.com/in/david-urrego-serna-78561325b)
+[David Urrego](www.linkedin.com/in/david-urrego-serna-78561325b)
 Maria Aristizabal
 
 ## Referencias
